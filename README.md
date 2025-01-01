@@ -15,7 +15,7 @@ sentiment. The solution should:
 • Provide actionable insights
 
 
-<img src="Image/domestic-violence.jpeg" width="800">
+<img src="domestic-violence.jpeg" width="800">
 
 [Image Source](https://omdena.com/blog/domestic-violence-covid-19/)
 
