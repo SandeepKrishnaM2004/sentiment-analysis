@@ -15,7 +15,7 @@ sentiment. The solution should:
 • Provide actionable insights
 
 
-<img src="Image/domestic-violence.jpeg" width="800">
+<img src="https://omdena.com/blog/domestic-violence-covid-19/" width="800">
 
 [Image Source](https://omdena.com/blog/domestic-violence-covid-19/)
 
@@ -24,7 +24,7 @@ sentiment. The solution should:
 It refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. It can be widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine.
 
 
-<img src="Image/Analysis_Chart.png" width="1000">
+<img src="Analysis_Chart.png" width="1000">
 
 [Image Source](https://omdena.com/blog/domestic-violence-covid-19/)
 
